@@ -44,7 +44,7 @@ header{
 #bg{
     content:"";
     position:absolute;
-    background: url(front\ page.jpg) no-repeat center bottom/cover;
+    background: url(image/front\ page.jpg) no-repeat center bottom/cover;
     height:69%;
     width:100%;
     z-index: -1;
@@ -107,7 +107,7 @@ header{
     #places .class h2{
         color:rgb(201, 254, 6)}
     #places .class1{
-        background: url(newyork.jpg)no-repeat center bottom/cover;
+        background: url(image/newyork.jpg)no-repeat center bottom/cover;
         border-radius: 23px;
         background-size: cover;
         padding: 34px;
@@ -122,7 +122,7 @@ header{
         box-shadow: 100px black;
     }
     #places .class2{
-        background: url(dubai.jpg)no-repeat center bottom/cover;
+        background: url(image/dubai.jpg)no-repeat center bottom/cover;
         border-radius: 23px;
         background-size: cover;
         padding: 34px;
@@ -137,7 +137,7 @@ header{
     
     
     #places .class3{
-        background: url(maldives\ -\ Copy.jpg)no-repeat center center/cover;
+        background: url(image/maldives\ -\ Copy.jpg)no-repeat center center/cover;
         border-radius: 23px;
         background-size: cover;
         padding: 34px;
@@ -151,7 +151,7 @@ header{
     
     
     #places .class4{
-        background: url(Singapore_place.jpg)no-repeat center center/cover;
+        background: url(image/Singapore_place.jpg)no-repeat center center/cover;
         border-radius: 23px;
         background-size: cover;
         padding: 34px; 
@@ -181,7 +181,7 @@ header{
 
 
 #places .class5{
-    background: url(agra.jpeg)no-repeat center bottom/cover;
+    background: url(image/agra.jpeg)no-repeat center bottom/cover;
     border-radius: 23px;
     background-size: cover;
     padding: 34px;
@@ -195,7 +195,7 @@ position: relative;
 }
 
 #places .class6{
-    background: url(kashmir.jpg)no-repeat center bottom/cover;
+    background: url(image/kashmir.jpg)no-repeat center bottom/cover;
     border-radius: 23px;
     background-size: cover;
     padding: 34px;
@@ -209,7 +209,7 @@ position: relative;
 }
 
 #places .class7{
-    background: url(kerela.webp)no-repeat center bottom/cover;
+    background: url(image/kerela.webp)no-repeat center bottom/cover;
     border-radius: 23px;
     background-size: cover;
     padding: 34px;
@@ -224,7 +224,7 @@ position: relative;
 }
 
 #places .class8{
-    background: url(jaipur.jpg)no-repeat center bottom/cover;
+    background: url(image/jaipur.jpg)no-repeat center bottom/cover;
     border-radius: 23px;
     background-size: cover;
     padding: 34px;
